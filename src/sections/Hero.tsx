@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Fade } from "react-awesome-reveal";
 
-import background1 from "../assets/evolution.svg";
+import evolution from "../assets/evolution.svg";
 
 const Container = styled.section`
   display: flex;
@@ -57,7 +57,7 @@ const Container = styled.section`
 const Hero = () => (
   <Container>
     <Fade cascade={true} className="animation-container" triggerOnce>
-      <img className="hero-image" src={background1} alt="Hero" />
+      <img className="hero-image" src={evolution} alt="Hero" />
 
       <blockquote className="hero-quote big-text">
         Não é o mais forte que sobrevive nem o mais inteligente

@@ -14,11 +14,6 @@ const GlobalStyle = createGlobalStyle`
     position: relative;
   }
 
-  #root {
-    min-width: 1000px;
-    width: 100%;
-  }
-
   .animation-container {
     width: 100%;
     display: flex;

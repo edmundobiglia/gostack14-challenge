@@ -109,7 +109,7 @@ const Grey = styled.span`
 
 const AdAPPt = () => (
   <Container>
-    <Fade cascade={true} className="animation-container" triggerOnce>
+    <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
       <div className="ide-screen">
         <div className="title-bar">AdAPPt.js</div>
         <div className="controls">
@@ -262,5 +262,3 @@ const AdAPPt = () => (
 );
 
 export default AdAPPt;
-
-// gostack14-expansion-week-challenge

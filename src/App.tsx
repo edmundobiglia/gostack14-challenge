@@ -1,6 +1,7 @@
 import React from "react";
-
 import { ThemeProvider } from "styled-components";
+
+import GlobalStyle from "./GlobalStyle";
 
 import Hero from "./sections/Hero";
 import Section2 from "./sections/Section2";
@@ -28,6 +29,7 @@ const theme = {
 function App() {
   return (
     <div className="App">
+      <GlobalStyle />
       <ThemeProvider theme={theme}>
         <Hero />
         <Section2 />
