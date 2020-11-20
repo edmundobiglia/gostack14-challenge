@@ -40,6 +40,20 @@ const GlobalStyle = createGlobalStyle`
       margin-bottom: 0;
     }
   }
+  
+  ::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #6751d4;
+
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #45eb6e; 
+    border-radius: 8px;
+  }
 `;
 
 export default GlobalStyle;

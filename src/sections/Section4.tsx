@@ -37,7 +37,7 @@ const Container = styled.section`
 
 const Section4 = () => (
   <Container>
-    <Fade cascade={true} className="animation-container" triggerOnce>
+    <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
       <div className="content-wrapper">
         <div>
           <img src={jake} alt="Jake the Dog" />
@@ -51,6 +51,8 @@ const Section4 = () => (
           </h1>
         </div>
       </div>
+    </Fade>
+    <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
       <p className="paragraph">
         Devs que não se adaptam perdem sua relevância no mercado de trabalho e deixam de
         ser desejáveis para os empregadores. Além de tecnologias específicas, o setor

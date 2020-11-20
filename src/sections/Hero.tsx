@@ -56,7 +56,7 @@ const Container = styled.section`
 
 const Hero = () => (
   <Container>
-    <Fade cascade={true} className="animation-container" triggerOnce>
+    <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
       <img className="hero-image" src={evolution} alt="Hero" />
 
       <blockquote className="hero-quote big-text">

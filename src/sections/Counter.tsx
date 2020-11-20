@@ -52,7 +52,7 @@ const Container = styled.section`
 const Counter = () => {
   return (
     <Container>
-      <Fade cascade={true} className="animation-container" triggerOnce>
+      <Fade cascade={true} delay={400} className="animation-container" triggerOnce>
         <h1>
           <TechCounter>
             <CountUp isCounting end={70000} duration={20000} thousandsSeparator="." />

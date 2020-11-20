@@ -33,7 +33,7 @@ const Container = styled.section`
 
 const Section2 = () => (
   <Container>
-    <Fade cascade={true} className="animation-container" triggerOnce>
+    <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
       <div className="content-wrapper">
         <div>
           <img src={pokemonGif} alt="Pokemon" />
@@ -49,6 +49,8 @@ const Section2 = () => (
           </h1>
         </div>
       </div>
+    </Fade>
+    <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
       <p className="paragraph">
         Não é novidade a importância das soft skills no mundo do trabalho. Não adianta
         nada você ser um mestre do código, mas não ter empatia, não saber se comunicar,
