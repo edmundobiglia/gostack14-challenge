@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="AdAPPt_banner.png" width="400px">
+  <img src="AdAPPt_banner.png" width="460px">
 </h1>
 
 <h3 align="center">Desafio Expansion Week GoStack 14</h3>

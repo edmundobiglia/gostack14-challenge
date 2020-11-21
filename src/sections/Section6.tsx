@@ -75,21 +75,23 @@ const Section6 = () => (
         </div>
       </div>
     </Fade>
-    <Fade cascade={true} fraction={0.1} className="animation-container" triggerOnce>
+    <Fade cascade={true} delay={400} className="animation-container" triggerOnce>
       <p className="paragraph">
         <strong>Pare de reclamar</strong> que é impossível acompanhar as mudanças no
         panorama de tecnologia. Em vez de ver isso como um inconveniente, abrace e celebre
         o dinamismo da área de programação. Mudando sua atitude e sendo mais aberto às
         mudanças e transformações, você terá mais facilidade para se adaptar a elas.
       </p>
-
+    </Fade>
+    <Fade cascade={true} delay={400} className="animation-container" triggerOnce>
       <p className="paragraph">
         <strong>Construa bases sólidas</strong>: concentre-se em aprender e reforçar os
         conceitos fundamentais. Por mais que linguagens e frameworks mudem, os padrões
         subjacentes geralmente são universais e menos mutáveis. Ao ter um sólido domínio
         dos fundamentos, você poderá aprender as variações e novidades com menos esforço.
       </p>
-
+    </Fade>
+    <Fade cascade={true} delay={400} className="animation-container" triggerOnce>
       <p className="paragraph">
         <strong>Desenvolva sua capacidade de resolver problemas</strong>: como no ponto
         anterior, por mais que as tecnologias mudem, grande parte dos problemas continuam
@@ -97,7 +99,8 @@ const Section6 = () => (
         contexto, ambiente, linguagem, não importa os novos desafios que as mudanças
         tecnológicas tragam.
       </p>
-
+    </Fade>
+    <Fade cascade={true} delay={400} className="animation-container" triggerOnce>
       <p className="paragraph">
         <strong>Saiba que é OK fracassar e lembre-se de que você não está sozinho</strong>
         : é claro que se adaptar a tantas mudanças o tempo todo é desafiador. Ao aprender
