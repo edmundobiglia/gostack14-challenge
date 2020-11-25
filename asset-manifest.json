@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.js": "/gostack14-expansion-week-challenge/static/js/main.3d4d38ca.chunk.js",
-    "main.js.map": "/gostack14-expansion-week-challenge/static/js/main.3d4d38ca.chunk.js.map",
+    "main.js": "/gostack14-expansion-week-challenge/static/js/main.b75c179f.chunk.js",
+    "main.js.map": "/gostack14-expansion-week-challenge/static/js/main.b75c179f.chunk.js.map",
     "runtime-main.js": "/gostack14-expansion-week-challenge/static/js/runtime-main.19121282.js",
     "runtime-main.js.map": "/gostack14-expansion-week-challenge/static/js/runtime-main.19121282.js.map",
-    "static/js/2.d3a0ac70.chunk.js": "/gostack14-expansion-week-challenge/static/js/2.d3a0ac70.chunk.js",
-    "static/js/2.d3a0ac70.chunk.js.map": "/gostack14-expansion-week-challenge/static/js/2.d3a0ac70.chunk.js.map",
+    "static/js/2.fed9314c.chunk.js": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js",
+    "static/js/2.fed9314c.chunk.js.map": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js.map",
     "index.html": "/gostack14-expansion-week-challenge/index.html",
-    "static/js/2.d3a0ac70.chunk.js.LICENSE.txt": "/gostack14-expansion-week-challenge/static/js/2.d3a0ac70.chunk.js.LICENSE.txt",
+    "static/js/2.fed9314c.chunk.js.LICENSE.txt": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js.LICENSE.txt",
     "static/media/evolution.f3d2ec63.svg": "/gostack14-expansion-week-challenge/static/media/evolution.f3d2ec63.svg",
     "static/media/goku.f1c8723c.gif": "/gostack14-expansion-week-challenge/static/media/goku.f1c8723c.gif",
     "static/media/impostor.8751fa4b.svg": "/gostack14-expansion-week-challenge/static/media/impostor.8751fa4b.svg",
     "static/media/jake.a4ecdeb3.gif": "/gostack14-expansion-week-challenge/static/media/jake.a4ecdeb3.gif",
     "static/media/mario.2a355ce2.gif": "/gostack14-expansion-week-challenge/static/media/mario.2a355ce2.gif",
+    "static/media/monkey.9cea739d.jpg": "/gostack14-expansion-week-challenge/static/media/monkey.9cea739d.jpg",
     "static/media/mystique.f742af66.gif": "/gostack14-expansion-week-challenge/static/media/mystique.f742af66.gif",
     "static/media/pokemon.cd14509c.gif": "/gostack14-expansion-week-challenge/static/media/pokemon.cd14509c.gif",
     "static/media/rocketseat.9479d31e.svg": "/gostack14-expansion-week-challenge/static/media/rocketseat.9479d31e.svg",
@@ -21,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19121282.js",
-    "static/js/2.d3a0ac70.chunk.js",
-    "static/js/main.3d4d38ca.chunk.js"
+    "static/js/2.fed9314c.chunk.js",
+    "static/js/main.b75c179f.chunk.js"
   ]
 }
