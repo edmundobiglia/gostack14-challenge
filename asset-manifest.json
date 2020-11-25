@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gostack14-expansion-week-challenge/static/js/main.b75c179f.chunk.js",
-    "main.js.map": "/gostack14-expansion-week-challenge/static/js/main.b75c179f.chunk.js.map",
+    "main.js": "/gostack14-expansion-week-challenge/static/js/main.10dd4cc4.chunk.js",
+    "main.js.map": "/gostack14-expansion-week-challenge/static/js/main.10dd4cc4.chunk.js.map",
     "runtime-main.js": "/gostack14-expansion-week-challenge/static/js/runtime-main.19121282.js",
     "runtime-main.js.map": "/gostack14-expansion-week-challenge/static/js/runtime-main.19121282.js.map",
     "static/js/2.fed9314c.chunk.js": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.19121282.js",
     "static/js/2.fed9314c.chunk.js",
-    "static/js/main.b75c179f.chunk.js"
+    "static/js/main.10dd4cc4.chunk.js"
   ]
 }
