@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/gostack14-expansion-week-challenge/static/js/main.10dd4cc4.chunk.js",
-    "main.js.map": "/gostack14-expansion-week-challenge/static/js/main.10dd4cc4.chunk.js.map",
+    "main.js": "/gostack14-expansion-week-challenge/static/js/main.d249742c.chunk.js",
+    "main.js.map": "/gostack14-expansion-week-challenge/static/js/main.d249742c.chunk.js.map",
     "runtime-main.js": "/gostack14-expansion-week-challenge/static/js/runtime-main.19121282.js",
     "runtime-main.js.map": "/gostack14-expansion-week-challenge/static/js/runtime-main.19121282.js.map",
-    "static/js/2.fed9314c.chunk.js": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js",
-    "static/js/2.fed9314c.chunk.js.map": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js.map",
+    "static/js/2.ac385466.chunk.js": "/gostack14-expansion-week-challenge/static/js/2.ac385466.chunk.js",
+    "static/js/2.ac385466.chunk.js.map": "/gostack14-expansion-week-challenge/static/js/2.ac385466.chunk.js.map",
     "index.html": "/gostack14-expansion-week-challenge/index.html",
-    "static/js/2.fed9314c.chunk.js.LICENSE.txt": "/gostack14-expansion-week-challenge/static/js/2.fed9314c.chunk.js.LICENSE.txt",
+    "static/js/2.ac385466.chunk.js.LICENSE.txt": "/gostack14-expansion-week-challenge/static/js/2.ac385466.chunk.js.LICENSE.txt",
     "static/media/evolution.f3d2ec63.svg": "/gostack14-expansion-week-challenge/static/media/evolution.f3d2ec63.svg",
     "static/media/goku.f1c8723c.gif": "/gostack14-expansion-week-challenge/static/media/goku.f1c8723c.gif",
     "static/media/impostor.8751fa4b.svg": "/gostack14-expansion-week-challenge/static/media/impostor.8751fa4b.svg",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19121282.js",
-    "static/js/2.fed9314c.chunk.js",
-    "static/js/main.10dd4cc4.chunk.js"
+    "static/js/2.ac385466.chunk.js",
+    "static/js/main.d249742c.chunk.js"
   ]
 }
