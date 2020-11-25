@@ -6,18 +6,18 @@
 
 Landing page **AdAPPt()** criada para o desafio da **Expansion Week** do GoStack 14. Apesar de ser uma landing page simples, tentei incorporar um pouquinho (_bem_ pouquinho) de interatividade para aproveitar o React. A estilização da página foi feita com **styled-components**.
 
-## 🖼️ Gif
-
-<img src="demo.gif" width="600px">
-
-_Primeiras seções da página_
-
 ## 🛠️ Dependências
 
 - TypeScript
 - styled-components
 - react-awesome-reveal
 - react-countup
+
+## 🖼️ Gif
+
+<img src="demo.gif" width="600px">
+
+_Primeiras seções da página_
 
 ---
 

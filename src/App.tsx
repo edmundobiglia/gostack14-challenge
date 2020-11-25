@@ -31,8 +31,7 @@ const theme = {
 
 function App() {
   const windowWidth = useWindowWidth();
-  console.log(windowWidth);
-
+  
   return (
     <div className="App">
       <GlobalStyle />
