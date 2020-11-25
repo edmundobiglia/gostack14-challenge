@@ -4,7 +4,7 @@
 
 <h3 align="center">Desafio Expansion Week GoStack 14</h3>
 
-Landing page **AdAPPt()** criada para o desafio da **Expansion Week** do GoStack 14. Apesar de ser uma landing page simples, tentei incorporar um pouquinho (_bem_ pouquinho) de interatividade para aproveitar o React. A estilização da página foi feita com **styled-components**.
+Landing page **AdAPPt()** criada para o desafio da **Expansion Week** do GoStack 14. Demo <a href="https://edmundobiglia.github.io/gostack14-expansion-week-challenge">aqui</a>. Apesar de ser uma landing page simples, tentei incorporar um pouquinho (_bem_ pouquinho) de interatividade para aproveitar o React. A estilização da página foi feita com **styled-components**.
 
 ## 🛠️ Dependências
 
