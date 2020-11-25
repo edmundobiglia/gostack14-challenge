@@ -3,6 +3,9 @@ import { ThemeProvider } from "styled-components";
 
 import GlobalStyle from "./GlobalStyle";
 
+import useWindowWidth from './hooks/useWindowWidth';
+
+import NotResponsiveScreen from './components/NotResponsiveScreen';
 import Hero from "./sections/Hero";
 import Section2 from "./sections/Section2";
 import Counter from "./sections/Counter";
@@ -27,10 +30,13 @@ const theme = {
 };
 
 function App() {
+  const windowWidth = useWindowWidth();
+  console.log(windowWidth);
+
   return (
     <div className="App">
       <GlobalStyle />
-      <ThemeProvider theme={theme}>
+      {windowWidth < 1200 ? <NotResponsiveScreen/> : <ThemeProvider theme={theme}>
         <Hero />
         <Section2 />
         <Counter />
@@ -39,7 +45,8 @@ function App() {
         <Section6 />
         <Quizz />
         <Footer />
-      </ThemeProvider>
+      </ThemeProvider>}
+     
     </div>
   );
 }

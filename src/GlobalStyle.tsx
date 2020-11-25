@@ -12,6 +12,7 @@ const GlobalStyle = createGlobalStyle`
     min-width: 1000px;
     width: 100%;
     position: relative;
+    overflow-x: hidden;
   }
 
   .animation-container {
@@ -39,6 +40,29 @@ const GlobalStyle = createGlobalStyle`
     &:last-child {
       margin-bottom: 0;
     }
+  }
+
+  .not-responsive {
+    background: #45eb6e;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+
+    img {
+      max-width: 400px; 
+      width: 100%;
+    }
+
+    p {
+      margin-top: 20px;
+      color: #6751d4;
+      font-size: 21;
+    }    
   }
   
   ::-webkit-scrollbar {
