@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="AdAPPt_banner.png" width="460px">
+  <img src="./readme_assets/AdAPPt_banner.png" width="460px">
 </h1>
 
 <h3 align="center">Desafio Expansion Week GoStack 14</h3>
@@ -15,7 +15,7 @@ Landing page **AdAPPt()** criada para o desafio da **Expansion Week** do GoStack
 
 ## 🖼️ Gif
 
-<img src="demo.gif" width="600px">
+<img src="./readme_assets/demo.gif" width="600px">
 
 _Primeiras seções da página_
 

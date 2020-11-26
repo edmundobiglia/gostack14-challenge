@@ -59,7 +59,8 @@ const Counter = () => {
           </TechCounter>
           novos frameworks desde que você abriu esta página
         </h1>
-
+      </Fade>
+      <Fade cascade={true} delay={600} className="animation-container" triggerOnce>
         <img className="bottom-image" src={techs} alt="Techs" />
       </Fade>
     </Container>
